@@ -1,4 +1,4 @@
 Animation this logo 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/MokusM/logo-animation/blob/master/build/img/logo.gif?raw=true)
 
